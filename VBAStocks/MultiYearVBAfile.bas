@@ -150,11 +150,7 @@ For Each xsheet In ThisWorkbook.Worksheets
             
 
 'To do:
-'Challenges:
-    
-
-'Adjust to run on every worksheet
-'Look into formatting to ignore blank cells in grey fill
+        'Nothing. Fin.
 
     
 
